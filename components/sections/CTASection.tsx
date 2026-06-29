@@ -30,7 +30,7 @@ export default function CTASection() {
 
           <motion.h2
             variants={fadeInUp}
-            className="font-display text-2xl sm:text-4xl lg:text-6xl font-bold text-white leading-tight"
+            className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-white leading-tight"
           >
             Have a Project in Mind?{" "}
             <span className="text-gradient">Let&apos;s Talk.</span>
@@ -38,7 +38,7 @@ export default function CTASection() {
 
           <motion.p
             variants={fadeInUp}
-            className="text-slate-400 text-lg leading-relaxed"
+            className="text-slate-400 text-sm sm:text-base leading-relaxed"
           >
             Whether you need specialist consultancy, full EPCI delivery, or
             marine support, our team is ready to help you achieve your

@@ -62,7 +62,7 @@ export default function ContactPage() {
               <span className="w-1.5 h-1.5 rounded-full bg-amber-400" />
               Get In Touch
             </span>
-            <h1 className="font-display text-2xl sm:text-4xl lg:text-5xl font-bold text-white mt-4">
+            <h1 className="font-display text-xl sm:text-3xl lg:text-4xl font-bold text-white mt-4">
               Let&apos;s Start a{" "}
               <span className="text-gradient">Conversation</span>
             </h1>

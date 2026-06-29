@@ -52,7 +52,7 @@ export default function QHSEPage() {
               ))}
             </div>
 
-            <h1 className="font-display text-xl sm:text-4xl lg:text-6xl font-bold text-white leading-tight mb-3">
+            <h1 className="font-display text-xl sm:text-3xl lg:text-4xl font-bold text-white leading-tight mb-3">
               QHSE
             </h1>
             <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-2xl">
@@ -72,7 +72,7 @@ export default function QHSEPage() {
                 <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider">
                   01
                 </span>
-                <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950 leading-tight">
+                <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 leading-tight">
                   Quality <span className="text-gradient">Assurance</span>
                 </h2>
                 <div className="w-12 h-1 bg-amber-500 rounded-full" />
@@ -116,7 +116,7 @@ export default function QHSEPage() {
                 <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/10 border border-white/20 text-amber-400 text-xs font-bold uppercase tracking-wider">
                   02
                 </span>
-                <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-white leading-tight">
+                <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-white leading-tight">
                   Health, Safety &amp;{" "}
                   <span className="text-gradient">Environment</span>
                 </h2>
@@ -150,7 +150,7 @@ export default function QHSEPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider mb-4">
                 Alliances
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950 mb-4">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 mb-4">
                 Our <span className="text-gradient">Partners</span>
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto">

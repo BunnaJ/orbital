@@ -22,7 +22,7 @@ export default function StatsSection() {
           {stats.map((stat, i) => (
             <ScrollReveal key={stat.label} delay={i * 0.1}>
               <div className="flex flex-col items-center text-center p-8 rounded-3xl bg-slate-50 border border-slate-100 hover:border-amber-200 hover:bg-amber-50/30 transition-all duration-300 group">
-                <span className="font-display text-5xl lg:text-6xl font-bold text-navy-950 group-hover:text-amber-600 transition-colors duration-300">
+                <span className="font-display text-4xl lg:text-5xl font-bold text-navy-950 group-hover:text-amber-600 transition-colors duration-300">
                   <AnimatedCounter
                     value={stat.value}
                     suffix={stat.suffix}

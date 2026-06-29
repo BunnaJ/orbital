@@ -32,6 +32,10 @@ export const metadata: Metadata = {
     "EPCI projects West Africa",
     "Orbital Resources Limited",
   ],
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
   openGraph: {
     type: "website",
     locale: "en_NG",
@@ -41,12 +45,14 @@ export const metadata: Metadata = {
       "Orbital Resources Limited — World-Class Engineering & Energy Services",
     description:
       "Delivering world-class consultancy, engineering, and marine services to the sub-Saharan energy industry.",
+    images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "Orbital Resources Limited" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Orbital Resources Limited",
     description:
       "World-class engineering and marine services for Nigeria's energy sector.",
+    images: ["/opengraph-image.png"],
   },
   robots: {
     index: true,

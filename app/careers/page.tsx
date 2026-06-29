@@ -106,7 +106,7 @@ export default function CareersPage() {
                 </Link>
               ))}
             </div>
-            <h1 className="font-display text-xl sm:text-4xl lg:text-6xl font-bold text-white leading-tight mb-3 max-w-2xl">
+            <h1 className="font-display text-xl sm:text-3xl lg:text-4xl font-bold text-white leading-tight mb-3 max-w-2xl">
               <span className="text-gradient">Careers</span> at Orbital Resources
             </h1>
             <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-xl">
@@ -124,7 +124,7 @@ export default function CareersPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider mb-5">
                 Join Us
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950 leading-tight mb-5">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 leading-tight mb-5">
                 We Are Always on the <span className="text-gradient">Look Out</span>
               </h2>
               <div className="space-y-4 text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -170,7 +170,7 @@ export default function CareersPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/10 border border-white/20 text-amber-400 text-xs font-bold uppercase tracking-wider mb-4">
                 Life at ORL
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-white">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-white">
                 Why Work <span className="text-gradient">With Us?</span>
               </h2>
             </div>
@@ -212,7 +212,7 @@ export default function CareersPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider mb-4">
                 Open Disciplines
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950">
                 Roles We <span className="text-gradient">Hire For</span>
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed max-w-xl mx-auto mt-4">
@@ -244,7 +244,7 @@ export default function CareersPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider mb-5">
                 How to Apply
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950 leading-tight mb-5">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 leading-tight mb-5">
                 Ready to Join the <span className="text-gradient">Orbital Team?</span>
               </h2>
               <div className="space-y-4 text-slate-600 text-sm sm:text-base leading-relaxed mb-8">

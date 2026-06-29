@@ -17,7 +17,7 @@ export default function IndustriesSection() {
               <span className="w-1.5 h-1.5 rounded-full bg-current" />
               Industries
             </span>
-            <h2 className="font-display text-2xl sm:text-3xl lg:text-5xl font-bold text-white leading-tight tracking-tight">
+            <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-white leading-tight tracking-tight">
               Sectors We <span className="text-gradient">Serve</span>
             </h2>
             <p className="text-base leading-relaxed max-w-2xl text-slate-300">

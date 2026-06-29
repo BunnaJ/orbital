@@ -74,7 +74,7 @@ export default function ServicesPage() {
               ))}
             </div>
 
-            <h1 className="font-display text-xl sm:text-4xl lg:text-6xl font-bold text-white leading-tight max-w-3xl mb-3 sm:mb-5">
+            <h1 className="font-display text-xl sm:text-3xl lg:text-4xl font-bold text-white leading-tight max-w-3xl mb-3 sm:mb-5">
               Our <span className="text-gradient">Services</span>
             </h1>
             <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-2xl">
@@ -92,7 +92,7 @@ export default function ServicesPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider mb-4">
                 What We Offer
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950">
                 Services We <span className="text-gradient">Proffer</span>
               </h2>
             </div>

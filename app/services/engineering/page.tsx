@@ -35,7 +35,7 @@ export default function EngineeringPage() {
             <p className="text-amber-400 text-[10px] sm:text-xs font-semibold tracking-widest uppercase mb-3 leading-relaxed max-w-xs sm:max-w-none">
               We are never satisfied with anything less, and continually improve our processes until your requirements are met.
             </p>
-            <h1 className="font-display text-2xl sm:text-4xl lg:text-6xl font-bold text-white leading-tight">
+            <h1 className="font-display text-xl sm:text-3xl lg:text-4xl font-bold text-white leading-tight">
               Engineering <span className="text-gradient">Services</span>
             </h1>
           </ScrollReveal>

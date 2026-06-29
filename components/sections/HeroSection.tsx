@@ -147,7 +147,7 @@ export default function HeroSection() {
                 initial={{ opacity: 0, y: 30 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.25, duration: 0.6 }}
-                className="font-display text-2xl sm:text-4xl lg:text-6xl xl:text-7xl font-bold text-white leading-[1.08] tracking-tight mb-3"
+                className="font-display text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold text-white leading-[1.08] tracking-tight mb-3"
               >
                 {slides[current].headline}
                 <br />

@@ -58,7 +58,7 @@ export default function AboutPage() {
             <p className="text-amber-400 text-sm font-semibold tracking-widest uppercase mb-3">
               Our job and passion…
             </p>
-            <h1 className="font-display text-lg sm:text-4xl lg:text-6xl font-bold text-white leading-tight max-w-2xl">
+            <h1 className="font-display text-lg sm:text-3xl lg:text-4xl font-bold text-white leading-tight max-w-2xl">
               We Deliver World Class Services to the{" "}
               <span className="text-gradient">Sub-Saharan Energy Industry</span>
             </h1>
@@ -74,7 +74,7 @@ export default function AboutPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/10 border border-white/20 text-amber-400 text-xs font-bold uppercase tracking-wider mb-5">
                 Alliances
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-white leading-tight mb-4">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-white leading-tight mb-4">
                 Our <span className="text-gradient">Partners</span>
               </h2>
               <p className="text-slate-400 text-sm sm:text-base leading-relaxed max-w-2xl mx-auto">
@@ -119,7 +119,7 @@ export default function AboutPage() {
                 <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider">
                   Our Story
                 </span>
-                <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-bold text-navy-950 leading-tight">
+                <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 leading-tight">
                   Founded on{" "}
                   <span className="text-gradient">Excellence</span>
                 </h2>
@@ -173,7 +173,7 @@ export default function AboutPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/10 border border-white/20 text-amber-400 text-xs font-bold uppercase tracking-wider mb-4">
                 What We Stand For
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-5xl font-bold text-white leading-tight">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-white leading-tight">
                 Our <span className="text-gradient">Values</span>
               </h2>
             </div>
@@ -204,7 +204,7 @@ export default function AboutPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider mb-4">
                 Direction
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-5xl font-bold text-navy-950 leading-tight">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 leading-tight">
                 Mission &amp; <span className="text-gradient">Vision</span>
               </h2>
             </div>

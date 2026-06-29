@@ -52,14 +52,14 @@ export default function AboutSection() {
             <div className="flex flex-col gap-6">
               <Badge variant="amber">About Orbital Resources</Badge>
 
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-5xl font-bold text-navy-950 leading-tight">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 leading-tight">
                 An Indigenous Company
                 <br />
                 with a{" "}
                 <span className="text-gradient">Global Mindset</span>
               </h2>
 
-              <p className="text-slate-500 text-base lg:text-lg leading-relaxed">
+              <p className="text-slate-500 text-sm sm:text-base leading-relaxed">
                 Orbital Resources Limited (ORL) is an indigenous service company
                 incorporated to provide oilfield solutions, equipment, and
                 support services to local and multinational operators in Nigeria

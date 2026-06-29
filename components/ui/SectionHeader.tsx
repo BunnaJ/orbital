@@ -39,7 +39,7 @@ export default function SectionHeader({
       )}
       <h2
         className={cn(
-          "font-display text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight tracking-tight",
+          "font-display text-xl sm:text-2xl lg:text-3xl font-bold leading-tight tracking-tight",
           isDark ? "text-white" : "text-navy-950"
         )}
       >
@@ -51,7 +51,7 @@ export default function SectionHeader({
       {description && (
         <p
           className={cn(
-            "text-base sm:text-lg leading-relaxed max-w-2xl",
+            "text-sm sm:text-base leading-relaxed max-w-2xl",
             isDark ? "text-slate-300" : "text-slate-500"
           )}
         >

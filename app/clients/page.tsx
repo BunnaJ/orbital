@@ -72,7 +72,7 @@ export default function ClientsPage() {
                 </Link>
               ))}
             </div>
-            <h1 className="font-display text-xl sm:text-4xl lg:text-6xl font-bold text-white leading-tight mb-3">
+            <h1 className="font-display text-xl sm:text-3xl lg:text-4xl font-bold text-white leading-tight mb-3">
               Our <span className="text-gradient">Clients</span>
             </h1>
             <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-2xl">
@@ -90,7 +90,7 @@ export default function ClientsPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider mb-4">
                 Who We Work With
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950">
                 Trusted by <span className="text-gradient">Industry Leaders</span>
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed max-w-xl mx-auto mt-4">
@@ -131,7 +131,7 @@ export default function ClientsPage() {
               <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider mb-5">
                 Sectors
               </span>
-              <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950 leading-tight mb-6">
+              <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 leading-tight mb-6">
                 Industries We <span className="text-gradient">Serve</span>
               </h2>
               <p className="text-slate-500 text-sm sm:text-base leading-relaxed mb-8">
@@ -173,7 +173,7 @@ export default function ClientsPage() {
                 <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-amber-50 border border-amber-200 text-amber-700 text-xs font-bold uppercase tracking-wider">
                   Client Experience
                 </span>
-                <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-navy-950 leading-tight">
+                <h2 className="font-display text-xl sm:text-2xl lg:text-3xl font-bold text-navy-950 leading-tight">
                   What You Can <span className="text-gradient">Expect</span>
                 </h2>
                 <div className="w-12 h-1 bg-amber-500 rounded-full" />
