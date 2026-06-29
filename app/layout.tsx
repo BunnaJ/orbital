@@ -18,6 +18,7 @@ const sora = Sora({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://orbital-ng.com"),
   title: {
     default:
       "Orbital Resources Limited — World-Class Engineering & Energy Services",
@@ -45,14 +46,14 @@ export const metadata: Metadata = {
       "Orbital Resources Limited — World-Class Engineering & Energy Services",
     description:
       "Delivering world-class consultancy, engineering, and marine services to the sub-Saharan energy industry.",
-    images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "Orbital Resources Limited" }],
+    images: [{ url: "https://orbital-ng.com/opengraph-image.png", width: 1200, height: 630, alt: "Orbital Resources Limited" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Orbital Resources Limited",
     description:
       "World-class engineering and marine services for Nigeria's energy sector.",
-    images: ["/opengraph-image.png"],
+    images: ["https://orbital-ng.com/opengraph-image.png"],
   },
   robots: {
     index: true,
